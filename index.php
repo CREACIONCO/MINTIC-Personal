@@ -1,9 +1,9 @@
 <?php
 
 $first_program = `python first_program.py`;
-echo "<h1>First program</h1></br>";
+echo "<center><h1>First Program</h1></br>";
 echo $first_program;
-echo "<hr>";
+echo "</center><hr>";
 
 $classes_journal = `python classes_journal.py`;
 echo "<h1>Classes Journal</h1></br>";
