@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 br = "<br>"
-hr = "<hr>"
 
 print "<h1>Clase 2021-05-04</h1>", br, "Hello, I'm Juan", br
 
@@ -29,5 +28,3 @@ my_boolean_1 = int (False)
 print my_boolean_1, br
 
 print true != 0, br
-
-print hr
