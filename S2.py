@@ -8,7 +8,7 @@ print "<h1>Clase 2021-05-04</h1>", br, "Hello, I'm Juan", br
 my_char = "a"
 print my_char, br
 
-my_string = "Juan Camilo"
+my_string = "This is a string"
 print my_string, br
 
 my_int = 5
@@ -27,5 +27,7 @@ my_boolean_1 = True
 my_boolean_2 = False
 my_boolean_1 = int (False)
 print my_boolean_1, br
+
+print true != 0, br
 
 print hr
