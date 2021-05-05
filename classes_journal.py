@@ -2,7 +2,7 @@
 
 br = "<br>"
 
-print "<h1>Clase 2021-05-04</h1>", br, "Hello, I'm Juan", br
+print "<h2>Clase 2021-05-04</h2>", br, "Hello, I'm Juan", br
 
 my_char = "a"
 print my_char, br
