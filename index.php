@@ -5,7 +5,7 @@ echo "<h1>First program</h1></br>";
 echo $first_program;
 echo "<hr>";
 
-$classes_journal = `python classes journal.py`;
+$classes_journal = `python classes_journal.py`;
 echo "<h1>Classes Journal</h1></br>";
 echo $classes_journal;
 echo "<hr>";
