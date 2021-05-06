@@ -27,7 +27,7 @@ my_boolean_2 = False
 my_boolean_1 = int (False)
 print my_boolean_1, br
 
-print true != 0, br
+#print true != 0, br
 
 print "<h2>Clase 2021-05-05</h2><br>"
 
